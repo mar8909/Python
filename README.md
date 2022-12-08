@@ -1,4 +1,4 @@
-## Small exercise to practice basic python. ##
+## Small exercises to practice basic python. ##
 
 + url-slicer 
 + card validator
